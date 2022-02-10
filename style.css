@@ -26,6 +26,7 @@ body {
   background: url("./web-ready/bg/hero.jpg");
   justify-content: space-between;
   margin-bottom: 110px;
+  width: 1300px;
 }
 .image {
   position: relative;
